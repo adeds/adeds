@@ -2,17 +2,17 @@
 <p align="center"> <h1 align="center"> Hi, I am Ade Dyas 👋</h1></p>
 <p align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adeds&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%adeds" /> </p>
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
-
 <ul>
 <li>I am now working at <a href="https://sampingan.co.id/">Sampingan</a> as an Android Developer</li>
 <li>I like mobile development both Android and iOS</li>
 <li>I am currently learning on Kotlin and Swift!</li>
 </ul>
+
+![Profile Visit](https://komarev.com/ghpvc/?username=adeds&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%adeds)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
