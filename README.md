@@ -3,7 +3,7 @@
 <p align="center">
 
 <ul>
-<li>I am now working at <a href="https://sampingan.co.id/">Sampingan</a> as an iOS Engineer</li>
+<li>I am now working at <a href="https://staffinc.co/">Staffinc.co</a> as an iOS Engineer</li>
 <li>I like mobile development both Android and iOS</li>
 <li>I am currently learning on Kotlin and Swift!</li>
 </ul>
